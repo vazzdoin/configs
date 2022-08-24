@@ -1,5 +1,5 @@
 my:
-  greetings: Hello
+  greetings: Hello, check new greetings
   
 db:
   connection: connection-string-here
