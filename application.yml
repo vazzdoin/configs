@@ -1,7 +1,7 @@
 my:
-  greetings: Hello, welcome to the page,
+  greetings: Hello, page,
   
 db:
-  connection: connection-value
+  connection: connection-new
   host: 129.0.0.1
   port: 1200
